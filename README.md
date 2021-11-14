@@ -1,5 +1,5 @@
 # GetStockData
-Excel to get stock data
+Excel to get stock data (Email for support: luis.roman@digitalXU.com
 
 This tutorial covers excel macro which you can use to download historical data for multiple stock quotes. It is useful when you need to perform detailed technical analysis on stocks you wish to invest. Here source of the data is Yahoo Finance.
 
